@@ -1,0 +1,8 @@
+<Template xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Property name="id">JuanGa:OneSlide</Property>
+    <Property name="name">One slide with thumbnails</Property>
+    <Property name="author">Juan Gabriel Jimenez</Property>
+    <Property name="description">Left panel with thumbnails, shows one slide at a time.</Property>
+
+    <Property name="styleSheet">StyleSheet.xslt</Property>
+</Template>
